@@ -25,5 +25,5 @@ This repository contains an intelligent, lightweight cybersecurity system design
    ```bash
    pip install -r requirements.txt
 3. Run the Streamlit web dashboard:
- ```bash
+   ```bash
    streamlit run app.py
