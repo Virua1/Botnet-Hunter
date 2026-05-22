@@ -21,7 +21,7 @@ This repository contains an intelligent, lightweight cybersecurity system design
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Virua1/Botnet-Hunter.git](https://github.com/Virua1/Botnet-Hunter.git)
+   git clone https://github.com/Virua1/Botnet-Hunter.git
 2. Navigate into the project folder:
    ```bash
    cd Botnet-Hunter
