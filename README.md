@@ -18,9 +18,10 @@ This repository contains an intelligent, lightweight cybersecurity system design
 * **Dataset Used:** BoT-IoT Dataset
 
 ##  How to Run the Application
+
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/Virua1/Botnet-Hunter.git](https://github.com/Virua1/Botnet-Hunter.git)
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
