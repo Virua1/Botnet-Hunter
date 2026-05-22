@@ -22,9 +22,12 @@ This repository contains an intelligent, lightweight cybersecurity system design
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Virua1/Botnet-Hunter.git](https://github.com/Virua1/Botnet-Hunter.git)
-2. Install dependencies:
+2. Navigate into the project folder:
+   ```bash
+   cd Botnet-Hunter
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the Streamlit web dashboard:
+4. Run the Streamlit web dashboard:
    ```bash
    streamlit run app.py
